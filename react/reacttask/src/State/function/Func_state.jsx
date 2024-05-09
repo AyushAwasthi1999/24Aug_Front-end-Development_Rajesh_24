@@ -31,6 +31,7 @@ function Func_state() {
             {data.isImage ? <Func_img /> : null}
         </div>
     )
+    
 }
 
 export default Func_state
